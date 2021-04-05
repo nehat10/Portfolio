@@ -1,6 +1,6 @@
 # Portfolio
-Social media Mining /n
-Understanding Machine vs. Human generated text in news /n
+Social media Mining \n
+Understanding Machine vs. Human generated text in news \n
 Text generation has been an ongoing research for ages now, it includes open domain text generation, domain text generation, style specific generation, news generation, etc. The models we have used in the project are from the GPT2 Huggingface library which is for open domain text generation. The text generation comes under natural language processing (NLP). NLP has three main steps: text pre-processing, text representation and analysis & modeling.
 In the phase I of the project, me and my colleague created a dataset with news based on 2020 elections consisting of headlines, human generated articles, machine generated articles, news source and model for text generation. The machine generated articles were constructed by using the headline as the input and we analyzed the distinction between the human generated text and machine generated one. The model used to achieve this is the GPT-2 model(​Generative Pretrained Transformer 2).
 
