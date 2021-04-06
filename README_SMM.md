@@ -15,7 +15,7 @@ Smm_main_step1.py:​ The first code file is a python script that extracts human
 
 Smm_main_step2.py:​ The second code file is a python script that gives the machine generated article for each article extracted in File 1, Smm_main_step1.py​ (that was stored in csv and is read by this file), by taking the headline of every article as its input. We use the HuggingFace Python Library and beam search decoding method to generate the machine article for every headline and the results are then stored in a csv file.
 
-Smm_dataset.csv:​ We combined the results from both these scripts to create our dataset in the format as shown by Table 1. The dataset was cleaned manually to remove articles that were extracting incomprehensible language/symbols or not generating machine articles and our final dataset consists of 81 row entries and 5 columns, stored in a csv file Smm_dataset.csv (format as in Table 1). The delimiter is comma.
+Smm_dataset.csv:​ We combined the results from both these scripts to create our dataset. The dataset was cleaned manually to remove articles that were extracting incomprehensible language/symbols or not generating machine articles and our final dataset consists of 81 row entries and 5 columns, stored in a csv file Smm_dataset.csv. The delimiter is comma.
 
 References:
 
