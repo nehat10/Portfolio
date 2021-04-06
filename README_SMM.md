@@ -19,4 +19,8 @@ Smm_dataset.csv:​ We combined the results from both these scripts to create ou
 
 References:
 
-[1] ​https://github.com/AmritaBh/CSE472_Fall20_Files/blob/master/scrape_news.py [2] ​https://huggingface.co/blog/how-to-generate [3] ​https://testguild.com/selenium-webdriver/#:~:text=Selenium%20WebDriver%20is%​20an%20op​en,where%20you%20need%20browser%20automation. [4] ​https://stackoverflow.com/questions/52800174/clicking-more-button-via-selenium/​52804725#52804725 [5] ​https://nytimes.com/2020/09/22/climate/biden-climate-change.html?searchResultPosition=10
+[1] ​https://github.com/AmritaBh/CSE472_Fall20_Files/blob/master/scrape_news.py 
+[2] ​https://huggingface.co/blog/how-to-generate 
+[3] ​https://testguild.com/selenium-webdriver/#:~:text=Selenium%20WebDriver%20is%​20an%20op​en,where%20you%20need%20browser%20automation. 
+[4] ​https://stackoverflow.com/questions/52800174/clicking-more-button-via-selenium/​52804725#52804725 
+[5] ​https://nytimes.com/2020/09/22/climate/biden-climate-change.html?searchResultPosition=10
